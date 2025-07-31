@@ -1,7 +1,6 @@
 # 💻 Projetos de Programação Orientada a Objetos (POO) em Java
 
 Este repositório contém uma coleção de **projetos e exemplos desenvolvidos durante aulas de Programação Orientada a Objetos (POO)**, utilizando a linguagem **Java**. O objetivo é registrar e organizar os conteúdos práticos das aulas, facilitando revisões, estudos e reutilização dos códigos.
-
 ---
 
 ## 📚 Conteúdo
